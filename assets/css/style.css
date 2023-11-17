@@ -82,7 +82,7 @@
 
 }
 
-@media screen and (max-height: 650px) {
+@media screen and (max-height: 599px) {
   .img-hide img {
     display: none;
   }
